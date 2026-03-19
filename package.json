@@ -1,0 +1,17 @@
+{
+    "name": "chat",
+    "description": "Test de création de chat",
+    "main": "app.js",
+    "homepage": "https://github.com/Tsh1m/chat",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "module",
+    "devDependencies": {
+        "gh-pages": "^6.3.0"
+    },
+    "dependencies": {
+        "express": "^4.22.1",
+        "socket.io": "^4.8.3"
+    }
+}
